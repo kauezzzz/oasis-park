@@ -13,16 +13,13 @@ body {
 
 header {
   width: 100%;
-  height: 100px;
+  height: 180px;
   color: #fe951d;
-  color: transparent;
   display: flex;
   justify-content: space-between;
   align-items: center;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
-  position: sticky;
-  top: 0;
   }
 
   .circulo {
@@ -32,7 +29,7 @@ header {
     align-items: center;
   }
   .circulo img {
-    width: 70%;
+    width: 50%;
 
   }
   .logo {
