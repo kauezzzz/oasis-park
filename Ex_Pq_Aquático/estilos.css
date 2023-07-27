@@ -21,6 +21,8 @@ header {
   align-items: center;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
+  position: sticky;
+  top: 0;
   }
 
   .circulo {
@@ -153,11 +155,11 @@ main, section {
 
 #ux {
   color: white;
-  background-image: url(Design\ sem\ nome\ \(4\).png);
+  background-image: url(Design\ sem\ nome\ \(5\).png);
 }
 
 #motion {
-  background-image: url(Design\ sem\ nome\ \(5\).png);
+  background-image: url(paruqe\ aquatico\ 2.jpg);
   background-size: cover;
   background-position-x: center;
 }
@@ -173,7 +175,7 @@ main, section {
 
 #print {
   color: white;
-  background-image: url(imagens/h13-background-img-5-min.jpg);
+  background-image: url(Design\ sem\ nome\ \(4\).png);
   background-size: cover;
   background-position-x: center;
 }
