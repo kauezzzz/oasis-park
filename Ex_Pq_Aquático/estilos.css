@@ -203,17 +203,4 @@ main, section {
   margin-left: 4rem;
 }
 
-.fixed {
-  position: fixed;
-  width: 65px;
-  height: 65px;
-  font-weight: border;
-  bottom: 90px;
-  right: 30px;
-}
-
-.fixed:hover {
-  background-color: green;
-  font-weight: bolder;
-  border-radius: 35px;
-}
+/* Footer */
