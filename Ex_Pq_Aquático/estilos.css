@@ -102,6 +102,6 @@ header {
 
 
 .slides {
-  width: 100%;
-  height: 100px;
+  max-width: 100%;
+  margin-top: 100px;
 }
