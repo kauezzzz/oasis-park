@@ -102,8 +102,110 @@ header {
 }
 
 
-.slides {
-  max-width: 100%;
-  margin-top: 100px;
+/* home */
+
+main, section {
+  height: 73vh;
+  display: flex;
+  align-items: center;
+  margin: 0;
 }
 
+.conteudo {
+  width: 90%;
+  margin: auto;
+  max-width: 800px;
+}
+
+.conteudo h1 {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.conteudo p {
+  line-height: 2rem;
+}
+
+.cta {
+  font-family: 'Oswald', sans-serif;
+  text-decoration: none;
+  font-size: .8rem;
+  font-weight: 600;
+  background-color: rgb(255, 238, 60);
+  padding: 1.15rem 1.8rem;
+  line-height: 5.5rem;
+  color: black;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.cta ::before {
+  content: "+";
+  margin-right: 0.8rem;
+}
+
+.verde-agua {
+  background-color: #26ccca;
+  color: white;
+}
+
+#ux {
+  color: white;
+  background-image: url(Design\ sem\ nome\ \(4\).png);
+}
+
+#motion {
+  background-image: url(Design\ sem\ nome\ \(5\).png);
+  background-size: cover;
+  background-position-x: center;
+}
+
+#brand {
+  background-image: url(Design\ sem\ nome\ \(6\).png);
+  color: white;
+}
+
+.texto {
+  color: #999;
+}
+
+#print {
+  color: white;
+  background-image: url(imagens/h13-background-img-5-min.jpg);
+  background-size: cover;
+  background-position-x: center;
+}
+
+#produto {
+  background-image: url(imagens/h13-background-img-1-min.jpg);
+  background-size: cover;
+  background-position-x: center;
+}
+
+#produto, #motion, #print {
+  background-attachment: fixed;
+}
+
+.conteudo {
+  width: 50%;
+  max-width: 800px;
+  margin: 0;
+  margin-left: 4rem;
+}
+
+.fixed {
+  position: fixed;
+  width: 65px;
+  height: 65px;
+  font-weight: border;
+  bottom: 90px;
+  right: 30px;
+}
+
+.fixed:hover {
+  background-color: green;
+  font-weight: bolder;
+  border-radius: 35px;
+}
