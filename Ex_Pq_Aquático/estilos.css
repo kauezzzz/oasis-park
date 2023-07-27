@@ -105,6 +105,12 @@ header {
 
 
 /* home */
+@font-face {
+  font-family:'Keep';
+  src: url('fonts/KeeponTruckin.ttf') format('truetype'), url('fonts/KeeponTruckin.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 main, section {
   height: 73vh;
@@ -121,9 +127,9 @@ main, section {
 
 .conteudo h1 {
   text-transform: uppercase;
-  font-family: 'Oswald', sans-serif;
-  font-size: 3rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
+  font-family: 'Keep', sans-serif;
 }
 
 .conteudo p {
