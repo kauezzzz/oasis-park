@@ -178,13 +178,13 @@ main, section {
 
 #print {
   color: white;
-  background-image: url(Design\ sem\ nome\ \(4\).png);
+  background-image: url(TOBOGIS.avif);
   background-size: cover;
   background-position-x: center;
 }
 
 #produto {
-  background-image: url(imagens/h13-background-img-1-min.jpg);
+  background-image: url();
   background-size: cover;
   background-position-x: center;
 }
