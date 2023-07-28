@@ -99,67 +99,6 @@ header {
 
   }
 }
-<<<<<<< Updated upstream
-/* _______________________________________________________________________________ */
-
-.sobre {
-  color: rgb(3, 0, 0);
-  font-size: 10px;
-  padding: 10px;
-
-}
-.sobre p{
-  font-size: 10px;
-}
-
-.loja {
-  color: #F1C043;
-  font-size: 18px;
-  padding: 10px;
-}
-
-.contato {
-  color: #FF9629;
-  justify-content: end;
-  flex-direction: row;
-  padding-top: 30px;
-  font-size: 22px;
-}
-
-.principais {
-  color: #F1C043;
-  font-size: 25px;
-}
-
-.inferior {
-  display: flex;
-}
-.lateral {
-  margin-left: 50px;
-  display: flex;
-flex-direction: column;
-justify-content: space-between;
-}
-.we {
-  font-style: italic;
-  color: #FFF2BC;
-}
-.pets {
-  color: #F1C043;
-}
-.tit{
-  display: flex;
-  align-items: center;
-  font-size: 165px;
-}
-.somos{
- 
-    margin-top: 80px;
-    margin-left: 30px;
-    font-size: 35px;
-    color: #3ACBCB;
-  }
-=======
 /* _________________________________________________________________________ */
 
 .somos h2{
@@ -171,4 +110,3 @@ span.we{
 }
 
 /* ________________________________- */
->>>>>>> Stashed changes
