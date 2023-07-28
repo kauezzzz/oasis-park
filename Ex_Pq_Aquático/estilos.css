@@ -178,13 +178,13 @@ main, section {
 
 #print {
   color: white;
-  background-image: url(Design\ sem\ nome\ \(4\).png);
+  background-image: url(TOBOGIS.avif);
   background-size: cover;
   background-position-x: center;
 }
 
 #produto {
-  background-image: url(imagens/h13-background-img-1-min.jpg);
+  background-image: url(onda\ inicial.png);
   background-size: cover;
   background-position-x: center;
 }
@@ -269,3 +269,17 @@ main, section {
   }
 
   
+  /* Redes sociais */
+  .social-bar {
+    height: 50px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+/* Menu */
+.titulos {
+    font-size: 18px;
+}
+.titulos a {
+    padding: 10px;
+}
