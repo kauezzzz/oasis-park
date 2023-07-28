@@ -22,8 +22,8 @@ header {
   border-bottom-left-radius: 5px;
   }
 
-  ul {
-    justify-content: space-between;
+  .botoes {
+    align-items: center;
   }
 
   .fa-brands fa-instagram fa-2xl {
