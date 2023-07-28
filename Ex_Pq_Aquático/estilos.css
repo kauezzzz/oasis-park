@@ -22,6 +22,11 @@ header {
   border-bottom-left-radius: 5px;
   }
 
+  .icons {
+    padding-left: 100px;
+    /* padding-right: 50px; */
+  }
+
   ul {
     justify-content: space-between;
   }
