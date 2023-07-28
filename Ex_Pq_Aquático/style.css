@@ -1,3 +1,23 @@
+.custom-shape-divider-top-1690483287 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1690483287 svg {
+    position: relative;
+    display: block;
+    width: calc(163% + 1.3px);
+    height: 116px;
+}
+
+.custom-shape-divider-top-1690483287 .shape-fill {
+    fill: #EBC634;
+}
+
 .slider {
     width: 100%;
     height: 100%;
