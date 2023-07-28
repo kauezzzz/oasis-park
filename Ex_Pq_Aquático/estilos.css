@@ -184,7 +184,7 @@ main, section {
 }
 
 #produto {
-  background-image: url();
+  background-image: url(onda\ inicial.png);
   background-size: cover;
   background-position-x: center;
 }
@@ -269,3 +269,17 @@ main, section {
   }
 
   
+  /* Redes sociais */
+  .social-bar {
+    height: 50px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+/* Menu */
+.titulos {
+    font-size: 18px;
+}
+.titulos a {
+    padding: 10px;
+}
