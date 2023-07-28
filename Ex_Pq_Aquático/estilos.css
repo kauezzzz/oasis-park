@@ -184,7 +184,7 @@ main, section {
 }
 
 #produto {
-  background-image: url(imagens/h13-background-img-1-min.jpg);
+  background-image: url(onda\ inicial.png);
   background-size: cover;
   background-position-x: center;
 }
